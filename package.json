@@ -1,0 +1,28 @@
+{
+    "author": "dast3007@gmail.com",
+    "dependencies": {
+        "pebble-localize": "^0.1.1"
+    },
+    "keywords": [],
+    "name": "tutoria1",
+    "pebble": {
+        "displayName": "tutoria1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite"
+        ],
+        "uuid": "0745419a-0f42-4dd4-a290-57dd0f4e1528",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
